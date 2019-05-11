@@ -1,8 +1,8 @@
 # Property Buddy
 
 The project includes 3 services at the moment:
-1. Database
----
+<h2>1. Database</h2>
+
 https://github.com/zapathy/propertybuddy_databaseservice
 
   This service connects to a heroku postgresql database, and can do CRUD operations using the API endpoints
