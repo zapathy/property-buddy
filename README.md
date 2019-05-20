@@ -2,7 +2,7 @@
 
 The project includes 3 services at the moment:
 <h2>1. Database</h2>
-  https://github.com/zapathy/propertybuddy_databaseservice
+  https://propertybuddy-database.herokuapp.com/swagger-ui.html#/
   
   This service connects to a heroku postgresql database, and can do CRUD operations using the API endpoints
 
