@@ -1,6 +1,10 @@
 # Property Buddy
 
-![alt text](frontend-screenshot.png?raw=true "frontend empty")
+[![alt text][image]][hyperlink]
+
+[hyperlink]:https://propertybuddy-frontend.herokuapp.com/
+[image]:frontend-screenshot.png?raw=true (click here)
+
 
 Welcome to my hobby project that I made to showcase some of the technologies I learned in Codecool, as well as some new ones.
 
